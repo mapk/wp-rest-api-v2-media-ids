@@ -31,7 +31,7 @@ No, it is not an official plugin of the WP API.
 
 = Can I contribute to the project? =
 
-Of course! This is the GitHub Repository https://github.com/mapk/wp-rest-api-v2-media-ids
+Of course! This is the GitHub Repository: https://github.com/mapk/wp-rest-api-v2-media-ids
 
 == Screenshots ==
 
