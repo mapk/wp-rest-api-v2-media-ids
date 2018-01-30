@@ -7,11 +7,11 @@ Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adding an endpoint to show all media IDs on WP REST API v2
+Adding an endpoint to show all media IDs on WP REST API
 
 == Description ==
 
-This plugin extends the [WordPress REST API (Version 2)](https://developer.wordpress.org/rest-api/) with new routes for all WordPress media IDs.
+This plugin extends the [WordPress REST API](https://developer.wordpress.org/rest-api/) with new routes for all WordPress media IDs.
 
 The new routes available will be:
 
@@ -19,7 +19,7 @@ The new routes available will be:
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/wp-rest-api-v2-media-ids` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/wp-rest-api-media-ids` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
 
 
