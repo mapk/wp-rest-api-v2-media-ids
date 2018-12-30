@@ -1,7 +1,7 @@
 <?php 
 /*
 Plugin Name: WP-REST-API Media IDs
-Version: 0.1
+Version: 0.2
 Description: Adding an endpoint to show all media IDs on WP REST API
 Author: Mark Uraine
 Author URI: http://markuraine.com
